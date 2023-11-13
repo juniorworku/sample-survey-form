@@ -1,0 +1,53 @@
+body {
+  font-family: 'Century', sans-serif;
+  width: 100%;
+  height: auto;
+  background-color: #83A2FF;
+  color: 22092C;
+  font-size: 3vw;
+ }
+ #heading{
+     max-width:auto;
+     margin: 1rem auto;
+  padding: .6rem;
+ }
+#main{
+  padding: 0% 20% 0% 20%;
+}
+#title{
+  font-size: 2rem;
+  text-align: center;
+  line-height: 1.2;
+  padding: .6rem;
+
+}
+#description{
+  font-size: 1.1rem;
+  text-align: center;
+  padding: .2rem;
+}
+
+#survey-form {
+  background-color: #B4BDFF;
+  padding: 2rem 2.5rem;
+  border-radius: 30px;
+}
+submit{
+  background:#872341;
+  color: #fff;
+  padding: .7rem;
+  font-size:2rem;
+  cursor: pointer;
+
+}
+#submit:hover {
+  background: #F05941;
+  }
+
+.form {
+width: 100%;
+padding: .7rem;
+border-radius: 6px;
+font-size: 1.0rem;
+border: none;
+}
